@@ -1,7 +1,6 @@
 # Getting Started with React and Typescript
 
 Small application to learn the basics of react with typescript.
-Using hooks and passing props to child components.
 
 ## Available Scripts
 
